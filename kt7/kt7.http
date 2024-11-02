@@ -1,6 +1,0 @@
-@kt7_HostAddress = http://localhost:5236
-
-GET {{kt7_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
